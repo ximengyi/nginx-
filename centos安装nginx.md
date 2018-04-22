@@ -1,7 +1,7 @@
 
 
 进入 /etc/yum.repos.d/ 下新建nginx.repo
-'''
+'''Javascript
 vim /etc/yum.repos.d/nginx.repo
 '''
 ================================
